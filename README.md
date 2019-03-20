@@ -17,5 +17,9 @@
 
 # Master Change6
 
+<<<<<<< HEAD
 # Dev Change7
 
+=======
+# Master Change7
+>>>>>>> branch 'master' of https://github.com/1345371609/TaijiQuinn.git
